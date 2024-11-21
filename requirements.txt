@@ -1,0 +1,12 @@
+generative-ai-hub-sdk[all]
+hana-ml==2.22.24110601
+pandas==2.2.3
+hdbcli==2.22.32
+ai-core-sdk==2.4.12
+ai-api-client-sdk==2.4.0
+gradio==5.5.0
+gradio-client==1.4.2
+scipy==1.14.1
+langchain==0.2.17 
+langchain-community==0.2.17 
+ipykernel

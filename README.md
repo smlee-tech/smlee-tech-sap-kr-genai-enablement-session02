@@ -1,0 +1,1 @@
+# smlee-tech-sap-kr-genai-enablement-session02
